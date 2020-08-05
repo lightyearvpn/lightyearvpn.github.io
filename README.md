@@ -35,9 +35,9 @@
 
 光年VPN还提供营销联盟计划。如果加入他们家的营销联盟，可以帮助他们吸引用户来赚提成。首次注册和购买的用户你可以获得30%的提成，续费的用户你可以获得20%的提成。这样下来每个月赚几千人民币的外快应该不是问题。
 
-大陆免翻墙域名：https://lightyearapp.xyz?invite_code=f1Oztx7WzFd
+[大陆免翻墙域名](https://lightyearapp.xyz?invite_code=f1Oztx7WzFd)
 
-永久域名: http://lightyearvpn.com?invite_code=f1Oztx7WzFd
+[永久域名](http://lightyearvpn.com?invite_code=f1Oztx7WzFd)
 
 ![光年VPN联盟营销](/assets/blog/lightyearvpn/aff.jpg)
 
