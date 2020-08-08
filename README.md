@@ -1,7 +1,7 @@
 
 ### 介绍 
 
-光年VPN，英文名称 [LightyearVPN](http://lightyearapp.xyz)，是一个比较新的翻墙软件。成立于2019年，公司位于美国加州。光年VPN主要使用SSR节点，也就是Shadowsocks或者影梭来科学上网。SSR节点对于中国翻墙到海外来说，速度快，稳定，效果更好。比传统的VPN，也就是OpenVPN协议更适合中国用户。光年VPN和其他机场的区别是，不需要订阅连接和配置文件，直接下载，安装，选择节点，就可以翻墙了，非常适合小白。和其他VPN相比，光年VPN的性价比更高一些，因为在这个价位提供可靠的BGP中继线路并不多。
+光年VPN，英文名称 [LightyearVPN](http://lightyearapp.club)，是一个比较新的翻墙软件。成立于2019年，公司位于美国加州。光年VPN主要使用SSR节点，也就是Shadowsocks或者影梭来科学上网。SSR节点对于中国翻墙到海外来说，速度快，稳定，效果更好。比传统的VPN，也就是OpenVPN协议更适合中国用户。光年VPN和其他机场的区别是，不需要订阅连接和配置文件，直接下载，安装，选择节点，就可以翻墙了，非常适合小白。和其他VPN相比，光年VPN的性价比更高一些，因为在这个价位提供可靠的BGP中继线路并不多。
 
 光年VPN支持Windows，MacOS，iOS，和安卓操作系统，一个账号可以连接5个设备。
 
@@ -35,7 +35,7 @@
 
 光年VPN还提供营销联盟计划。如果加入他们家的营销联盟，可以帮助他们吸引用户来赚提成。首次注册和购买的用户你可以获得30%的提成，续费的用户你可以获得20%的提成。这样下来每个月赚几千人民币的外快应该不是问题。
 
-[大陆免翻墙域名](https://lightyearapp.xyz?invite_code=f1Oztx7WzFd)
+[大陆免翻墙域名](https://lightyearapp.club?invite_code=f1Oztx7WzFd)
 
 [永久域名](http://lightyearvpn.com?invite_code=f1Oztx7WzFd)
 
